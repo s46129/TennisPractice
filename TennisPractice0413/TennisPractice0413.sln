@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisPractice0413", "Tenni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisePracetice", "TennisePracetice\TennisePracetice.csproj", "{FD7744A2-CE1E-4629-9439-DD3AF261F563}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTennis0417", "PracticeTennis0417\PracticeTennis0417.csproj", "{FD096E86-69EF-4969-A247-53029D56F7C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FD7744A2-CE1E-4629-9439-DD3AF261F563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD7744A2-CE1E-4629-9439-DD3AF261F563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD7744A2-CE1E-4629-9439-DD3AF261F563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD096E86-69EF-4969-A247-53029D56F7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD096E86-69EF-4969-A247-53029D56F7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD096E86-69EF-4969-A247-53029D56F7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD096E86-69EF-4969-A247-53029D56F7C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
