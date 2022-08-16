@@ -36,3 +36,5 @@ Desktop.ini
 *.cache
 *.cache
 *.cache
+*.csproj
+*.sln
